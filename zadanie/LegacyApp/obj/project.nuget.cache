@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Abq7AcSeM2X3OUD6FgJnZ0mtY792lJdCGifi+r4ccwPaRYLhOjsAujxo6I/+ILvdQ8KgjLHgj3bUjutk0wAckw==",
+  "dgSpecHash": "oI4Y+Dbl8n2+JYA7hwsvcCQEzp5/SIAipbTPdq9BPYfAIeeqtFvHJHiYhACQg1zRlhw3eKvSMKwvdUBX/J4u0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s25972\\Downloads\\zadanie\\zadanie\\LegacyApp\\LegacyApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Kacper\\RiderProjects\\APBD\\zadanie\\LegacyApp\\LegacyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
